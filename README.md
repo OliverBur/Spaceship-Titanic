@@ -9,4 +9,4 @@ This repository contains my solution to the Kaggle Spaceship Titanic competition
 - Data Exploration and Cleaning: Understanding the structure of the data and applying transformations to clean and prepare it for the model.
 - Feature Engineering: Removing irrelevant or redundant data and applying encoding to object type columns.
 - Model Training: Implementing and fine-tuning machine learning models to optimize prediction performance.
-- Evaluation: Comparing models based on accuracy, precision, recall, and F1-score.
+- Evaluation: Comparing models based on accuracy, precision, recall, F1-score and ROC-AUC curve.
